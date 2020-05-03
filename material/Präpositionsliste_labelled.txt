@@ -1,0 +1,68 @@
+﻿abseits - atelisch
+am - atelisch
+an - mit Akk. telisch, mit Dat. atelisch
+ans - telisch
+auf - mit Akk. telisch, mit Dat. atelisch
+aufs - telisch
+aus - telisch
+außerhalb - atelisch
+beidseits - atelisch
+beiderseits - atelisch
+beim - atelisch
+bis - telisch
+diesseits - atelisch
+durch - unklar
+entgegen - atelisch
+entlang - atelisch
+fern - atelisch
+fernab - atelisch
+gegen - telisch
+gegenüber - atelisch
+gen - atelisch
+hinter - mit Akk. telisch, mit Dat. atelisch
+hinterm - atelisch
+hinters - telisch
+im - atelisch
+in - mit Akk. telisch, mit Dat. atelisch
+inmitten - atelisch
+innerhalb - atelisch
+ins - telisch
+jenseits - atelisch
+lang - atelisch
+längs - atelisch
+längsseits - atelisch
+links - atelisch
+nach - telisch
+nördlich - atelisch
+nordöstlich - atelisch
+nordwestlich - atelisch
+oberhalb - atelisch
+östlich - atelisch
+rechts - atelisch
+seitlich - atelisch
+seitwärts - atelisch
+südlich - atelisch
+südöstlich - atelisch
+südwestlich - atelisch
+über - unklar
+überm - atelisch
+übern - unklar
+übers - unklar
+um - unklar
+ums - telisch
+unfern - atelisch
+unter - mit Akk. telisch, mit Dat. atelisch
+unterhalb - atelisch
+unterm - atelisch
+untern - telisch
+unters - telisch
+unweit - atelisch
+via - atelisch
+vom - telisch
+von - telisch
+vor - mit Akk telisch, mit Dat atelisch
+wider - atelisch
+zu - telisch
+zum - telisch
+zur - telisch
+zwischen - atelisch

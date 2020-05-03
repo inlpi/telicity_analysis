@@ -1,0 +1,1008 @@
+bummeln ist zu
+9.800362976406534% telisch
+24.682395644283122% atelisch
+65.51724137931035% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 551
+telisch: 54
+atelisch: 136
+unclear: 361
+
+
+eiern ist zu
+26.82926829268293% telisch
+29.268292682926827% atelisch
+43.90243902439025% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 41
+telisch: 11
+atelisch: 12
+unclear: 18
+
+
+eilen ist zu
+79.4044665012407% telisch
+11.011166253101736% atelisch
+9.58436724565757% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 3224
+telisch: 2560
+atelisch: 355
+unclear: 309
+
+
+fahren ist zu
+62.062245739808255% telisch
+25.52416716451879% atelisch
+12.413587095672954% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 70302
+telisch: 43631
+atelisch: 17944
+unclear: 8727
+
+
+flanieren ist zu
+9.75609756097561% telisch
+43.23725055432372% atelisch
+47.006651884700666% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 451
+telisch: 44
+atelisch: 195
+unclear: 212
+
+
+flattern ist zu
+58.1973581973582% telisch
+25.874125874125873% atelisch
+15.92851592851593% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1287
+telisch: 749
+atelisch: 333
+unclear: 205
+
+
+fliegen ist zu
+56.21748026892721% telisch
+20.245542239111373% atelisch
+23.536977491961412% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 17105
+telisch: 9616
+atelisch: 3463
+unclear: 4026
+
+
+fliehen ist zu
+62.55386383223212% telisch
+31.298477449008903% atelisch
+6.1476587187589775% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 6962
+telisch: 4355
+atelisch: 2179
+unclear: 428
+
+
+fließen ist zu
+65.04720815356718% telisch
+21.553179516038266% atelisch
+13.399612330394547% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 15993
+telisch: 10403
+atelisch: 3447
+unclear: 2143
+
+
+flitzen ist zu
+25.208333333333332% telisch
+22.291666666666668% atelisch
+52.5% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 480
+telisch: 121
+atelisch: 107
+unclear: 252
+
+
+galoppieren ist zu
+33.531157270029674% telisch
+29.673590504451035% atelisch
+36.795252225519285% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 337
+telisch: 113
+atelisch: 100
+unclear: 124
+
+
+gehen ist zu
+53.77464913735318% telisch
+19.251960136304504% atelisch
+26.973390726342316% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 428159
+telisch: 230241
+atelisch: 82429
+unclear: 115489
+
+
+gleiten ist zu
+45.32351057014734% telisch
+19.47469570787956% atelisch
+35.2017937219731% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 3122
+telisch: 1415
+atelisch: 608
+unclear: 1099
+
+
+hasten ist zu
+50.943396226415096% telisch
+22.0125786163522% atelisch
+27.044025157232703% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 318
+telisch: 162
+atelisch: 70
+unclear: 86
+
+
+hetzen ist zu
+63.00743281875357% telisch
+15.780445969125214% atelisch
+21.21212121212121% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1749
+telisch: 1102
+atelisch: 276
+unclear: 371
+
+
+hinken ist zu
+16.41025641025641% telisch
+79.23076923076923% atelisch
+4.358974358974359% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 390
+telisch: 64
+atelisch: 309
+unclear: 17
+
+
+hoppeln ist zu
+28.717948717948715% telisch
+25.128205128205128% atelisch
+46.15384615384615% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 195
+telisch: 56
+atelisch: 49
+unclear: 90
+
+
+hopsen ist zu
+52.5% telisch
+20.833333333333336% atelisch
+26.666666666666668% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 120
+telisch: 63
+atelisch: 25
+unclear: 32
+
+
+humpeln ist zu
+61.1336032388664% telisch
+14.5748987854251% atelisch
+24.291497975708502% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 247
+telisch: 151
+atelisch: 36
+unclear: 60
+
+
+huschen ist zu
+30.440587449933243% telisch
+17.489986648865152% atelisch
+52.069425901201605% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 749
+telisch: 228
+atelisch: 131
+unclear: 390
+
+
+hüpfen ist zu
+47.964721845318856% telisch
+25.305291723202174% atelisch
+26.72998643147897% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1474
+telisch: 707
+atelisch: 373
+unclear: 394
+
+
+joggen ist zu
+23.92156862745098% telisch
+39.21568627450981% atelisch
+36.86274509803922% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 255
+telisch: 61
+atelisch: 100
+unclear: 94
+
+
+klettern ist zu
+63.83378932968537% telisch
+21.06703146374829% atelisch
+15.09917920656635% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 5848
+telisch: 3733
+atelisch: 1232
+unclear: 883
+
+
+krabbeln ist zu
+48.42857142857142% telisch
+30.571428571428573% atelisch
+21.0% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 700
+telisch: 339
+atelisch: 214
+unclear: 147
+
+
+kriechen ist zu
+55.6695464362851% telisch
+24.190064794816415% atelisch
+20.140388768898486% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1852
+telisch: 1031
+atelisch: 448
+unclear: 373
+
+
+kullern ist zu
+57.22222222222222% telisch
+22.77777777777778% atelisch
+20.0% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 180
+telisch: 103
+atelisch: 41
+unclear: 36
+
+
+latschen ist zu
+41.104294478527606% telisch
+17.791411042944784% atelisch
+41.104294478527606% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 163
+telisch: 67
+atelisch: 29
+unclear: 67
+
+
+laufen ist zu
+38.25751458052938% telisch
+43.50650515926424% atelisch
+18.235980260206368% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 55725
+telisch: 21319
+atelisch: 24244
+unclear: 10162
+
+
+marschieren ist zu
+49.83243103892756% telisch
+28.82186130445991% atelisch
+21.34570765661253% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 3879
+telisch: 1933
+atelisch: 1118
+unclear: 828
+
+
+pilgern ist zu
+80.66666666666666% telisch
+13.88888888888889% atelisch
+5.444444444444444% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 900
+telisch: 726
+atelisch: 125
+unclear: 49
+
+
+promenieren ist zu
+10.0% telisch
+62.0% atelisch
+28.000000000000004% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 50
+telisch: 5
+atelisch: 31
+unclear: 14
+
+
+purzeln ist zu
+66.41509433962264% telisch
+20.0% atelisch
+13.584905660377359% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 265
+telisch: 176
+atelisch: 53
+unclear: 36
+
+
+radeln ist zu
+41.973375097885665% telisch
+33.594361785434614% atelisch
+24.432263116679717% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1277
+telisch: 536
+atelisch: 429
+unclear: 312
+
+
+rasen ist zu
+39.37823834196891% telisch
+25.859632595383893% atelisch
+34.7621290626472% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2123
+telisch: 836
+atelisch: 549
+unclear: 738
+
+
+reisen ist zu
+64.58372136338238% telisch
+18.22499534363941% atelisch
+17.191283292978206% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 10738
+telisch: 6935
+atelisch: 1957
+unclear: 1846
+
+
+reiten ist zu
+34.930693069306926% telisch
+48.35643564356435% atelisch
+16.712871287128714% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2525
+telisch: 882
+atelisch: 1221
+unclear: 422
+
+
+rennen ist zu
+62.62003986229389% telisch
+15.49193694509875% atelisch
+21.888023192607356% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 5519
+telisch: 3456
+atelisch: 855
+unclear: 1208
+
+
+robben ist zu
+34.36123348017621% telisch
+22.026431718061673% atelisch
+43.61233480176212% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 227
+telisch: 78
+atelisch: 50
+unclear: 99
+
+
+rollen ist zu
+50.306748466257666% telisch
+26.188650306748468% atelisch
+23.504601226993866% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 5216
+telisch: 2624
+atelisch: 1366
+unclear: 1226
+
+
+rudern ist zu
+45.7286432160804% telisch
+45.47738693467337% atelisch
+8.793969849246231% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 398
+telisch: 182
+atelisch: 181
+unclear: 35
+
+
+rutschen ist zu
+64.55987129395541% telisch
+25.166628361296254% atelisch
+10.273500344748333% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 4351
+telisch: 2809
+atelisch: 1095
+unclear: 447
+
+
+sausen ist zu
+31.88202247191011% telisch
+23.876404494382022% atelisch
+44.241573033707866% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 712
+telisch: 227
+atelisch: 170
+unclear: 315
+
+
+schlappen ist zu
+73.68421052631578% telisch
+10.526315789473683% atelisch
+15.789473684210526% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 19
+telisch: 14
+atelisch: 2
+unclear: 3
+
+
+schleichen ist zu
+59.07132599329823% telisch
+17.32886548587841% atelisch
+23.59980852082336% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2089
+telisch: 1234
+atelisch: 362
+unclear: 493
+
+
+schlendern ist zu
+23.076923076923077% telisch
+19.336626676076218% atelisch
+57.58645024700071% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1417
+telisch: 327
+atelisch: 274
+unclear: 816
+
+
+schlurfen ist zu
+46.03174603174603% telisch
+24.33862433862434% atelisch
+29.629629629629626% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 189
+telisch: 87
+atelisch: 46
+unclear: 56
+
+
+schreiten ist zu
+43.59576968272621% telisch
+29.1030160595378% atelisch
+27.301214257735996% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2553
+telisch: 1113
+atelisch: 743
+unclear: 697
+
+
+schwanken ist zu
+25.431804645622396% telisch
+67.18284693269804% atelisch
+7.385348421679572% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1679
+telisch: 427
+atelisch: 1128
+unclear: 124
+
+
+schweben ist zu
+17.683637776914107% telisch
+49.59191605130198% atelisch
+32.72444617178391% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 5146
+telisch: 910
+atelisch: 2552
+unclear: 1684
+
+
+schweifen ist zu
+54.166666666666664% telisch
+9.219858156028367% atelisch
+36.61347517730496% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1128
+telisch: 611
+atelisch: 104
+unclear: 413
+
+
+schwimmen ist zu
+28.063343717549326% telisch
+64.58982346832815% atelisch
+7.346832814122534% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 3852
+telisch: 1081
+atelisch: 2488
+unclear: 283
+
+
+segeln ist zu
+35.99744245524297% telisch
+38.68286445012788% atelisch
+25.31969309462916% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1564
+telisch: 563
+atelisch: 605
+unclear: 396
+
+
+sinken ist zu
+54.37154150197628% telisch
+31.470355731225297% atelisch
+14.15810276679842% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 12650
+telisch: 6878
+atelisch: 3981
+unclear: 1791
+
+
+skaten ist zu
+18.75% telisch
+59.375% atelisch
+21.875% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 32
+telisch: 6
+atelisch: 19
+unclear: 7
+
+
+spazieren ist zu
+19.488428745432397% telisch
+48.3962647178238% atelisch
+32.11530653674381% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2463
+telisch: 480
+atelisch: 1192
+unclear: 791
+
+
+springen ist zu
+71.82982548123736% telisch
+13.542056774773425% atelisch
+14.628117743989213% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 13351
+telisch: 9590
+atelisch: 1808
+unclear: 1953
+
+
+sprinten ist zu
+68.82352941176471% telisch
+18.235294117647058% atelisch
+12.941176470588237% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 170
+telisch: 117
+atelisch: 31
+unclear: 22
+
+
+stapfen ist zu
+30.545454545454547% telisch
+18.181818181818183% atelisch
+51.272727272727266% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 550
+telisch: 168
+atelisch: 100
+unclear: 282
+
+
+steigen ist zu
+60.655139376796384% telisch
+28.349833477804644% atelisch
+10.99502714539897% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 43838
+telisch: 26590
+atelisch: 12428
+unclear: 4820
+
+
+stolpern ist zu
+25.6294964028777% telisch
+17.35611510791367% atelisch
+57.014388489208635% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2224
+telisch: 570
+atelisch: 386
+unclear: 1268
+
+
+stolzieren ist zu
+29.67479674796748% telisch
+34.146341463414636% atelisch
+36.17886178861789% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 246
+telisch: 73
+atelisch: 84
+unclear: 89
+
+
+streichen ist zu
+52.559270516717326% telisch
+27.404255319148934% atelisch
+20.03647416413374% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 8225
+telisch: 4323
+atelisch: 2254
+unclear: 1648
+
+
+streifen ist zu
+15.532940546331012% telisch
+28.602035350830207% atelisch
+55.86502410283878% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 1867
+telisch: 290
+atelisch: 534
+unclear: 1043
+
+
+streunen ist zu
+8.799999999999999% telisch
+24.0% atelisch
+67.2% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 125
+telisch: 11
+atelisch: 30
+unclear: 84
+
+
+stromern ist zu
+2.1739130434782608% telisch
+26.08695652173913% atelisch
+71.73913043478261% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 46
+telisch: 1
+atelisch: 12
+unclear: 33
+
+
+strömen ist zu
+70.7620164126612% telisch
+14.912075029308324% atelisch
+14.32590855803048% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 4265
+telisch: 3018
+atelisch: 636
+unclear: 611
+
+
+stürmen ist zu
+69.16480238627891% telisch
+23.154362416107382% atelisch
+7.680835197613721% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 2682
+telisch: 1855
+atelisch: 621
+unclear: 206
+
+
+tapsen ist zu
+40.56603773584906% telisch
+21.69811320754717% atelisch
+37.735849056603776% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 106
+telisch: 43
+atelisch: 23
+unclear: 40
+
+
+tauchen ist zu
+41.14711512168444% telisch
+57.369428493300525% atelisch
+1.4834563850150397% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 14628
+telisch: 6019
+atelisch: 8392
+unclear: 217
+
+
+taumeln ist zu
+52.17391304347826% telisch
+25.889328063241106% atelisch
+21.936758893280633% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 506
+telisch: 264
+atelisch: 131
+unclear: 111
+
+
+tigern ist zu
+33.33333333333333% telisch
+11.594202898550725% atelisch
+55.072463768115945% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 69
+telisch: 23
+atelisch: 8
+unclear: 38
+
+
+tippeln ist zu
+33.33333333333333% telisch
+33.33333333333333% atelisch
+33.33333333333333% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 39
+telisch: 13
+atelisch: 13
+unclear: 13
+
+
+torkeln ist zu
+52.490421455938694% telisch
+19.157088122605366% atelisch
+28.35249042145594% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 261
+telisch: 137
+atelisch: 50
+unclear: 74
+
+
+traben ist zu
+45.885286783042396% telisch
+23.690773067331673% atelisch
+30.423940149625935% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 401
+telisch: 184
+atelisch: 95
+unclear: 122
+
+
+trampeln ist zu
+52.46478873239436% telisch
+28.169014084507044% atelisch
+19.366197183098592% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 284
+telisch: 149
+atelisch: 80
+unclear: 55
+
+
+treiben ist zu
+69.49505465903175% telisch
+21.48186708311643% atelisch
+9.023078257851813% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 23052
+telisch: 16020
+atelisch: 4952
+unclear: 2080
+
+
+trippeln ist zu
+32.846715328467155% telisch
+42.33576642335766% atelisch
+24.817518248175183% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 137
+telisch: 45
+atelisch: 58
+unclear: 34
+
+
+trotten ist zu
+52.348993288590606% telisch
+25.16778523489933% atelisch
+22.483221476510067% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 298
+telisch: 156
+atelisch: 75
+unclear: 67
+
+
+wandeln ist zu
+54.627432368296155% telisch
+37.70764119601329% atelisch
+7.664926435690555% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 8428
+telisch: 4604
+atelisch: 3178
+unclear: 646
+
+
+wandern ist zu
+57.04012784090909% telisch
+20.88955965909091% atelisch
+22.0703125% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 11264
+telisch: 6425
+atelisch: 2353
+unclear: 2486
+
+
+wanken ist zu
+56.56836461126006% telisch
+27.34584450402145% atelisch
+16.0857908847185% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 373
+telisch: 211
+atelisch: 102
+unclear: 60
+
+
+watscheln ist zu
+45.91836734693878% telisch
+20.408163265306122% atelisch
+33.6734693877551% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 98
+telisch: 45
+atelisch: 20
+unclear: 33
+
+
+wieseln ist zu
+14.814814814814813% telisch
+25.925925925925924% atelisch
+59.25925925925925% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 27
+telisch: 4
+atelisch: 7
+unclear: 16
+
+
+ziehen ist zu
+65.91791132541456% telisch
+20.39182249402172% atelisch
+13.690266180563723% unklar
+
+absolute Zahlen:
+Summe der Vorkommen: 102036
+telisch: 67260
+atelisch: 20807
+unclear: 13969
+
+

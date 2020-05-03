@@ -1,0 +1,12 @@
+Zeiteinheit
+Zeitpunkt
+Wetter
+Temperatur
+Naturereignis
+Grad
+Uhr
+kognitiver Prozess
+Körperteil
+Körperregion
+Handlung
+Prozent
