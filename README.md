@@ -10,9 +10,10 @@ The reasons for choosing SDeWaC were mainly the size of the corpus and existing 
 For 84 selected verb of motion all occurrences from SDeWaC have been extracted, where the verb has a dependent prepositional phrase in the same sentence. From there on, further steps have been taken to filter the results even more:
 1. Keep only results that contained one of 68 selected prepositions
 2. Remove results where the head of the prepositional phrase did not start with a capital letter
-3. Remove results, where the head of the prepositional phrase belonged to a specific synset; considering the whole synset path from GermaNet  
-The results were calculated based on the remaining data. For that, my supervisor and I labelled the prepositions according to their telicity using three different labels (telic, atelic and unclear).
-Since the difference between atelic and unclear was hard to determine, the final results only contain results regarding the telicity ratio of the verbs (% of the contexts in which they occur that are actual telic).
+3. Remove results, where the head of the prepositional phrase belonged to a specific synset; considering the whole synset path from GermaNet
+
+The results were calculated based on the remaining data. For that, my supervisor and I labelled the prepositions according to their telicity using three different labels (telic, atelic and unclear).  
+Since the difference between atelic and unclear was hard to determine, the final results only contain results regarding the telicity ratio of the verbs (% of the contexts in which they occur that are actual telic).  
 Aside from that, counts of the prepositions and their cases have been extracted for each verb.
 
 ## Structure
