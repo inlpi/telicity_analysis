@@ -1,7 +1,7 @@
 # telicity_analysis
 A corpus-based analysis of telicity in German from summer 2016
 
-This repository contains the code and results of an university project I worked on back in summer 2016.  
+This repository contains the code and results of a university project I worked on back in summer 2016.  
 Goal of the project was to perform a statistical analysis regarding the telicity of certain German motion verbs.  
 Database for the project was the corpus SDeWaC of [WaCky - The Web-As-Corpus Kool Initiative](https://wacky.sslmit.unibo.it/doku.php) (880 million tokens, annotated version 3; see M. Baroni, S. Bernardini, A. Ferraresi and E. Zanchetta. 2009. The WaCky Wide Web: A Collection of Very Large Linguistically Processed Web-Crawled Corpora. Language Resources and Evaluation 43 (3): 209-226.).  
 The reasons for choosing SDeWaC were mainly the size of the corpus and existing annotations like POS-Tags, dependency and grammatical information.
